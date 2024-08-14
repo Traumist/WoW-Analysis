@@ -591,7 +591,7 @@ ax.tick_params(axis='both', labelsize=22)
 
 The biggest spikes on this graph are from expansions releasing and WoW classic servers releasing. Let's visualize that.
 
-![expansion%20graph.png](attachment:expansion%20graph.png)
+![png](WoW%20Analysis_files/expansion%20graph.png)
 
 The biggest jumps and subsequently biggest falls happen after expansion releases. This makes sense, more of the world to explore, more dungeons to conquer and more adventures to be had. The only exception here is Wrath of the Lich king, the first expansion pictures in which the subscriber count climbed to near all time highs and held. Lets break it down expansion by expansion and see what about the expansion made it a success or failure.
 
